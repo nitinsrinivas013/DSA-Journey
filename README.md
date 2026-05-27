@@ -93,3 +93,23 @@ Maintained by **Nitin** – reach out at `nitinsrinivas13@gmail.com` or find me 
 
 Happy coding & keep building your algorithmic muscle! 💪
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0509-fibonacci-number) |
+<!---LeetCode Topics End-->
