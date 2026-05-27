@@ -16,7 +16,7 @@ public:
         if(dp[n] != -1){
             return dp[n];
         }
-        dp[n] = fib(n-1, dp) + fib(n-2, dp);
-        return fib(n-1, dp) + fib(n-2, dp);
+        
+        return dp[n] = fib(n-1, dp) + fib(n-2, dp);
     }
 };
