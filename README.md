@@ -103,6 +103,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -112,4 +113,8 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
