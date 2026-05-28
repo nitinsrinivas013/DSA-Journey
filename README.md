@@ -121,10 +121,12 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -133,4 +135,5 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
