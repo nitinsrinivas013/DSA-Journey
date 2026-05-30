@@ -126,6 +126,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0110-balanced-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,4 +151,5 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0110-balanced-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
