@@ -119,6 +119,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0136-single-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0704-binary-search) |
 ## Tree
 |  |
 | ------- |
@@ -165,4 +166,8 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
