@@ -7,21 +7,17 @@ public:
         int n = nums.size();
         int low = 0;
         int high = n-1;
-        bool flag = false;
 
         while(high >= low){
             int mid = low + (high - low)/2;
             if(nums[mid] >= target){
                 high = mid - 1;
-                if(nums[mid] == target){
-                    flag = true;
-                }
             }
             else{
                 low = mid + 1;
             }
         }
-        if(flag){
+        if(low < n && nums[low] == target){
             return low;
         }
         return -1;
@@ -33,29 +29,22 @@ public:
         int low = 0;
         int high = n-1;
 
-        bool flag = false;
-
         while(high >= low){
             int mid = low + (high - low)/2;
             if(nums[mid] <= target){
                 low = mid + 1;
-                if(nums[mid] == target){
-                    flag = true;
-                }
             }
             else{
                 high = mid-1;
             }
         }
-        if(flag){
+
+        if(high >=0 && nums[high] == target){
             return high;
         }
         return -1;
+       
     }
-
-
-
-
 
     vector<int> searchRange(vector<int>& nums, int target) {
 
