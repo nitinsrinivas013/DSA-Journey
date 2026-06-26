@@ -106,6 +106,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -122,6 +123,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0704-binary-search) |
