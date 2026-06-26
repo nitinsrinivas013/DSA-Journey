@@ -101,6 +101,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | ------- |
 | [0069-sqrtx](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -177,5 +178,6 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0035-search-insert-position](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
