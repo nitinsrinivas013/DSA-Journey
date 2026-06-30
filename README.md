@@ -127,6 +127,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0136-single-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0724-find-pivot-index) |
@@ -184,11 +185,17 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
