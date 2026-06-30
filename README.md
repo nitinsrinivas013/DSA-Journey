@@ -120,6 +120,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0136-single-number) |
@@ -169,6 +170,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
