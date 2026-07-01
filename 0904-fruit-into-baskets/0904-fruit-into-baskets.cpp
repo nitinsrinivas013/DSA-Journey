@@ -10,7 +10,7 @@ public:
         for(int i=0; i<n; i++){
             mpp[fruits[i]]++;
 
-            if(mpp.size() > 2){
+            while(mpp.size() > 2){
                 mpp[fruits[j]]--;
                 if(mpp[fruits[j]] == 0){
                     mpp.erase(fruits[j]);
