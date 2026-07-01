@@ -131,6 +131,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0283-move-zeroes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 ## Tree
 |  |
 | ------- |
@@ -198,4 +199,9 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0904-fruit-into-baskets) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
