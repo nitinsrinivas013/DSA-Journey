@@ -2,7 +2,7 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
 
-        unordered_map <char, int> mpp;
+        vector <int> freq(26,0);
         
         int n = s.length();
         int maxFreq = 0;
@@ -11,13 +11,13 @@ public:
         int maxLen = 0;
 
         for(int i=0; i<n; i++){
-            mpp[s[i]]++;
-            maxFreq = max(maxFreq, mpp[s[i]]);
+            freq[s[i] - 'A']++;
+            maxFreq = max(maxFreq, freq[s[i] - 'A']);
 
             changesNeeded = (i - j + 1) - maxFreq;
 
             while(changesNeeded > k){
-                mpp[s[j]]--;
+                freq[s[j] - 'A']--;
                 j++;
                 changesNeeded = (i - j + 1) - maxFreq;
             }
