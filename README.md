@@ -199,9 +199,15 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0904-fruit-into-baskets) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
