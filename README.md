@@ -179,6 +179,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0027-remove-element](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
@@ -214,6 +215,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0443-string-compression) |
 ## Sorting
