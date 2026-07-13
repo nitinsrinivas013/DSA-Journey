@@ -100,6 +100,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -234,4 +235,12 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
