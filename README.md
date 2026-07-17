@@ -231,6 +231,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0443-string-compression) |
