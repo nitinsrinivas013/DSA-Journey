@@ -54,12 +54,7 @@ public:
         if(isNegative){
             number = -number;
         }
-        if(number > INT_MAX){
-            return INT_MAX;
-        }
-        if(number < INT_MIN){
-            return INT_MIN;
-        }
+        
         return (int)number;
     }
 };
