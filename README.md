@@ -106,6 +106,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0441-arranging-coins](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0050-powx-n](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
