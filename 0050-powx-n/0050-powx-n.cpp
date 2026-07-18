@@ -1,25 +1,34 @@
 class Solution {
 public:
-    double myPow(double x, int n) {
-        long long power = n;
-        double answer = 1;
 
-        if(power < 0){
-            power = -(power);
+    double power(double x, long long exp){
+
+        if(exp == 0){
+            return 1.00;
         }
-        while(power > 0){
-            if(power%2 != 0){
-                answer = answer * x;
-                power--;
-            }
-            else{
-                x = x*x;
-                power = power / 2;
-            }
+        double half = power(x,exp/2);
+
+        if(exp % 2 == 0){
+            return half * half;
         }
-        if(n < 0){
-            answer = 1/answer;
+
+        return x * half * half;
+
+    }
+
+
+    double myPow(double x, int n) {
+
+        long long exponent = n;
+
+        if(exponent < 0){
+
+            x = 1/x;
+            exponent = -exponent;
+
         }
-        return answer;
+        
+        return power(x, exponent);
+
     }
 };
