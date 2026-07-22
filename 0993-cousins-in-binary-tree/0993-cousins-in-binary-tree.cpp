@@ -17,59 +17,53 @@ public:
             return false;
         }
 
-        queue<TreeNode*> q;
+        queue <TreeNode*> q;
         q.push(root);
-        int currDepth = 0;
 
-        int xDepth = -2;
-        int yDepth = -2;
-        bool bothFound = false;
-
-        unordered_map<int,int> mpp;
+        bool foundX = false;
+        bool foundY = false;
 
         while(!q.empty()){
             int size = q.size();
-            
-            while(size){
+
+            while(size--){
+
                 TreeNode* node = q.front();
                 q.pop();
 
+                if(node -> left && node -> right){
+                    
+                    int leftValue = node -> left -> val;
+                    int rightValue = node -> right -> val;
+
+                    if((leftValue == x && rightValue == y) ||
+                        (leftValue == y && rightValue == x)){
+
+                            return false;
+                        }
+
+                }
+
                 if(node -> val == x){
-                    xDepth = currDepth;
-                    if(yDepth != -2){
-                        bothFound = true;
-                    }
+                    foundX = true;
                 }
                 if(node -> val == y){
-                    yDepth = currDepth;
-                    if(xDepth != -2){
-                        bothFound = true;
-                    }
-                }
-
-                if(bothFound){
-
-                    bool sameParent = (mpp[x] != mpp[y]);
-
-                    if(xDepth == yDepth && sameParent){
-                        return true;
-                    }
-                    else{
-                        return false;
-                    }
+                    foundY = true;
                 }
 
                 if(node -> left){
                     q.push(node -> left);
-                    mpp[node -> left -> val] = node -> val;
                 }
                 if(node -> right){
                     q.push(node -> right);
-                    mpp[node -> right -> val] = node -> val;
                 }
-                size--;
             }
-            currDepth++;
+            if(foundX && foundY){
+                return true;
+            }
+            if(foundX || foundY){
+                return false;
+            }
         }
         return false;
     }
