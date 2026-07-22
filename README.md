@@ -156,6 +156,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0199-binary-tree-right-side-view](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0951-flip-equivalent-binary-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0199-binary-tree-right-side-view](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -192,6 +195,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0993-cousins-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
