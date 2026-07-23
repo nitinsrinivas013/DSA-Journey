@@ -154,6 +154,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -167,6 +168,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0993-cousins-in-binary-tree) |
@@ -181,6 +183,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0993-cousins-in-binary-tree) |
@@ -196,6 +199,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -239,6 +243,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
