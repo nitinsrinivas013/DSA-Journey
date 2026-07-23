@@ -159,6 +159,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0993-cousins-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0951-flip-equivalent-binary-trees](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0993-cousins-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0993-cousins-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -204,6 +207,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0993-cousins-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +250,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
 | ------- |
