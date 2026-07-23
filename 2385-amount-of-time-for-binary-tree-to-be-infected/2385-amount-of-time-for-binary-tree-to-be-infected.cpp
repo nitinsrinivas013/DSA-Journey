@@ -12,7 +12,12 @@
 class Solution {
 public:
 
-    void parentStoring(TreeNode* root, unordered_map<TreeNode*,TreeNode*> &mpp){
+    void parentStoring(
+        TreeNode* root, 
+        unordered_map<TreeNode*,TreeNode*> &mpp,
+        int start,
+        TreeNode* &target
+    ){
 
         if(root == nullptr){
             return;
@@ -23,27 +28,15 @@ public:
         if(root -> right){
             mpp[root -> right] = root;
         }
-        parentStoring(root -> left, mpp);
-        parentStoring(root -> right, mpp);
-
-    }
-
-    TreeNode* startNode(TreeNode* root, int start){
-
-        if(root == nullptr){
-            return nullptr;
-        }
         if(root -> val == start){
-            return root;
+            target = root;
         }
-        TreeNode* left = startNode(root -> left, start);
-
-        if(left != nullptr){
-            return left;
-        }
-        return startNode(root -> right, start);
+        parentStoring(root -> left, mpp, start, target);
+        parentStoring(root -> right, mpp, start, target);
 
     }
+
+    
 
     int amountOfTime(TreeNode* root, int start) {
         
@@ -51,12 +44,15 @@ public:
             return 0;
         }
 
-        TreeNode* target = startNode(root, start);
+        TreeNode* target;
+        unordered_map <TreeNode*, TreeNode*> mpp;
+
+        parentStoring(root, mpp, start, target);
         
         queue<TreeNode*> q;
         q.push(target);
-        unordered_map <TreeNode*, TreeNode*> mpp;
-        parentStoring(root, mpp);
+        
+        
         unordered_map <TreeNode*, bool> visited;
 
         visited[target] = true;
