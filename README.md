@@ -153,6 +153,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0110-balanced-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0951-flip-equivalent-binary-trees) |
@@ -201,6 +202,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0110-balanced-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0951-flip-equivalent-binary-trees) |
@@ -222,6 +224,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,6 +232,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0035-search-insert-position](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0704-binary-search) |
