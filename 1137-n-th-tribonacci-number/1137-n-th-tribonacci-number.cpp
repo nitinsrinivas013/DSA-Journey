@@ -1,16 +1,22 @@
 class Solution {
 public:
 
-    int tabulationCode(int n, vector<int> &dp){
+    int tabulationCode(int n){
 
-        dp[0] = 0;
-        dp[1] = 1;
-        dp[2] = 1;
+        int first = 0;
+        int second = 1;
+        int third = 1;
+
+        int answer = 0;
 
         for(int i=3; i<=n; i++){
-            dp[i] = dp[i-3] + dp[i-2] + dp[i-1];
+            answer = first + second + third;
+            first = second;
+            second = third;
+            third = answer;
+
         }
-        return dp[n];
+        return answer;
     }
 
     int tribonacci(int n) {
@@ -22,7 +28,6 @@ public:
             return 1;
         }
         
-        vector<int> dp(n+1,-1);
-        return tabulationCode(n, dp);
+        return tabulationCode(n);
     }
 };
