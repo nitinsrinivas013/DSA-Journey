@@ -140,6 +140,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0198-house-robber](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0904-fruit-into-baskets) |
@@ -255,6 +256,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
@@ -296,4 +298,8 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
