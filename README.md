@@ -145,6 +145,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0724-find-pivot-index](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1109-corporate-flight-bookings](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -259,6 +260,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0724-find-pivot-index) |
+| [1109-corporate-flight-bookings](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
