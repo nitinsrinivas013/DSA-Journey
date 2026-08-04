@@ -7,16 +7,20 @@ class NumArray {
         int size = nums.length;
         prefixSum = new int[size + 1];
 
-        prefixSum[0] = 0;
+        prefixSum[0] = nums[0];
 
-        for(int i=1; i<size + 1; i++){
-            prefixSum[i] = prefixSum[i-1] + nums[i-1];
+        for(int i=1; i<size; i++){
+            prefixSum[i] = prefixSum[i-1] + nums[i];
         }
     }
     
     public int sumRange(int left, int right) {
 
-        return prefixSum[right + 1] - prefixSum[left];
+        if(left == 0){
+            return prefixSum[right];
+        }
+
+        return prefixSum[right] - prefixSum[left - 1];
     }
 }
 
