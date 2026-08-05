@@ -139,6 +139,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0152-maximum-product-subarray](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0704-binary-search) |
@@ -259,6 +260,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1109-corporate-flight-bookings) |
