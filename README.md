@@ -130,6 +130,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -277,6 +278,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
