@@ -132,6 +132,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | ------- |
 | [0001-two-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -236,6 +237,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -300,6 +302,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
