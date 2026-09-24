@@ -349,5 +349,6 @@ Happy coding & keep building your algorithmic muscle! 💪
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
