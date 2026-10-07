@@ -102,6 +102,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0050-powx-n](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -143,6 +144,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0198-house-robber](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0704-binary-search) |
@@ -252,6 +254,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | ------- |
 | [0136-single-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -260,6 +263,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0069-sqrtx](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0704-binary-search) |
@@ -285,6 +289,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | ------- |
 | [0001-two-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0904-fruit-into-baskets) |
@@ -303,6 +308,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | ------- |
 | [0015-3sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
