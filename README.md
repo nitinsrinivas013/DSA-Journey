@@ -255,6 +255,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0136-single-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0001-two-sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0904-fruit-into-baskets) |
@@ -301,6 +303,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0008-string-to-integer-atoi](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0443-string-compression) |
 ## Sorting
@@ -309,6 +312,7 @@ Happy coding & keep building your algorithmic muscle! 💪
 | [0015-3sum](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinsrinivas013/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
